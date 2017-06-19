@@ -1,0 +1,12 @@
+html {
+  font-family: sans-serif;
+}
+
+.heading {
+  text-align: center;
+}
+
+.plant {
+  border-style: solid;
+  border-color: blue;
+}
